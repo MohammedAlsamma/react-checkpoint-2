@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MohammedAlsamma/react-checkpoint-2/static/css/main.df0ed7c5.css",
+    "main.js": "/MohammedAlsamma/react-checkpoint-2/static/js/main.624ad633.js",
+    "static/js/787.c83f74cd.chunk.js": "/MohammedAlsamma/react-checkpoint-2/static/js/787.c83f74cd.chunk.js",
+    "static/media/logo.svg": "/MohammedAlsamma/react-checkpoint-2/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MohammedAlsamma/react-checkpoint-2/index.html",
+    "main.df0ed7c5.css.map": "/MohammedAlsamma/react-checkpoint-2/static/css/main.df0ed7c5.css.map",
+    "main.624ad633.js.map": "/MohammedAlsamma/react-checkpoint-2/static/js/main.624ad633.js.map",
+    "787.c83f74cd.chunk.js.map": "/MohammedAlsamma/react-checkpoint-2/static/js/787.c83f74cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df0ed7c5.css",
+    "static/js/main.624ad633.js"
+  ]
+}
